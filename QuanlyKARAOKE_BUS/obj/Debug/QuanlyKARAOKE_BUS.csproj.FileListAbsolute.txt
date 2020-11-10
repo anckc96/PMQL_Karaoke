@@ -1,0 +1,90 @@
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\QuanlyKARAOKE_BUS\obj\Debug\QuanlyKARAOKE_BUS.pdb

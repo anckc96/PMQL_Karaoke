@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Reporting.WinForms.v11</id>
+    <version>1.0.0.0</version>
+    <title>Microsoft Reporting WinForms Binaries v11</title>
+    <authors>disklosr</authors>
+    <owners>disklosr</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains necessary binaries for Microsoft Reporting library.</description>
+    <summary>This package contains necessary binaries for Microsoft Reporting library. The 4 binaries included in this packages were copied straight from VS2013 folder. Works with both Winforms and WPF.</summary>
+    <releaseNotes />
+    <copyright>Copyright 2015</copyright>
+    <tags>Microsoft Reporting WinForm WPF</tags>
+  </metadata>
+</package>

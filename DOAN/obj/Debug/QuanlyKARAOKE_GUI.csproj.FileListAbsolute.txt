@@ -1,0 +1,579 @@
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmReportXemCTHD.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmReportInHDTT.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmReportInHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\RdlCompile.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\RdlCompile.compiled
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.1.9\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\DOAN.exe.config
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportXemCTHD.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportInHDTT.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportInHoaDonDaThanhToan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.exe.licenses
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\RdlCompile.compiled
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportXemCTHD.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportInHDTT.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportInHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\RdlCompile.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\RdlCompile.compiled
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.1\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\DOAN.exe.config
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportXemCTHD.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportInHoaDonDaThanhToan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.exe.licenses
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\RdlCompile.compiled
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.2\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\DOAN.exe.config
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.DEMO.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportXemCTHD.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportInHoaDonDaThanhToan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.exe.licenses
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\RdlCompile.compiled
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.3\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\DOAN.exe.config
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.exe.licenses
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\RdlCompile.compiled
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.4\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\RdlCompile.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\RdlCompile.compiled
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.5\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\DOAN.exe.config
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.exe.licenses
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\RdlCompile.compiled
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.6\Source\DOAN\obj\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\RdlCompile.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\RdlCompile.compiled
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.7\Source\DOAN\obj\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\RdlCompile.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\RdlCompile.compiled
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\DOAN.exe.config
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.exe.licenses
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\RdlCompile.compiled
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.8\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\DOAN.exe.config
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\DOAN.exe.licenses
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.2.9\Source\DOAN\obj\Debug\RdlCompile.compiled
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.exe.config
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.exe
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.exe.licenses
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu học tập\Đồ án lập trình WIN nâng cao\WINFORM INTERFACE\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\RdlCompile.compiled
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\RdlCompile.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\RdlCompile.compiled
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.1\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\RdlCompile.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.2\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\RdlCompile.compiled
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.exe
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\DOAN.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.dll
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_BUS.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DTO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\bin\Debug\QuanlyKARAOKE_DAO.pdb
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonDaThanhToan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportHoaDonTamTinh.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBanTrongThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportTanSuatSuDungPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThu.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoNgay.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportThongKeDoanhThuTheoThang.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FormMain.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmChuyenPhong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmDangNhap.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportLichSuThaoTac.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmReportSoLuongSPBan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmSoLuong.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.FrmTaiKhoan.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.frmThongKeSoLuongTonSP.resources
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\QuanlyKARAOKE_GUI.csproj.GenerateResource.Cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\RdlCompile.cache
+C:\Users\8540p\Desktop\DoAn\PMQL_Karaoke_v5.3.3\PMQL_Karaoke_v5.3.0\Source\DOAN\obj\Debug\RdlCompile.compiled
